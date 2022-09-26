@@ -1,4 +1,4 @@
-# shushi-project
+# iFood
 
 ## Project setup
 ```
